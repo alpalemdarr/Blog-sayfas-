@@ -1,0 +1,38 @@
+body{
+	background-color: #000000;
+background-image: url("https://www.transparenttextures.com/patterns/cartographer.png");
+}
+nav{
+	background: transparent;
+
+}
+.container{
+	background: transparent;
+
+}
+.text{
+	width: 80%;
+	height: 500px;
+	border-radius: 5px;
+}
+form {
+	text-align: center;
+}
+.heading{
+	width: 60%;
+	border-radius: 5px;
+	
+}
+#yayinla{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+h2{
+	color: white;
+	margin-top: 50px;
+	line-height: 60px;
+
+}
+#girisInput{
+	height: 40px;
+}
